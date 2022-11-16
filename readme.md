@@ -12,3 +12,5 @@ git remote add origin <link do github>
 (cria a conexao com o github)
 git push -u origin main
 (primeiro envio de repositorios, depois pode tirar o -u)
+
+https://github.com/rafaballerini/GitTutorial
